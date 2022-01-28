@@ -1,3 +1,9 @@
+*://cloud.tencent.com/developer/ask/*
+*://cloud.tencent.com/developer/information/*
+*://support.huaweicloud.com/topic/*
+*://www.aliyun.com/sswd/*
+*://www.cnpython.com/qa/*
+*://www.huaweicloud.com/theme/*
 *://support.huaweicloud.com/topic/*
 *://www.cnpython.com/qa/*
 *://www.huaweicloud.com/theme/*
