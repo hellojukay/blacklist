@@ -4,3 +4,4 @@
 数据来源
 * https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist
 * https://github.com/liubiantao/uBlacklist-Websites
+* https://github.com/colt-evil/ublack-list
