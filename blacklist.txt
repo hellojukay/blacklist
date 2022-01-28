@@ -1,3 +1,4 @@
+*://*.csdn.net/*
 *://*.blog.csdn.net/*
 *://*.voidcc.com/*
 *://*.voidcn.com/*
