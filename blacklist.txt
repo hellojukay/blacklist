@@ -1,3 +1,4 @@
+*://www.jianboge.com/*
 *://cloud.tencent.com/developer/ask/*
 *://cloud.tencent.com/developer/information/*
 *://support.huaweicloud.com/topic/*
